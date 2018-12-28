@@ -1,0 +1,1 @@
+Very simple implementation of 2D Ising Model using Monte Carlo method. Takes single argument of the temperature (strange units), and the map is the size of the initial terminal.
